@@ -7,9 +7,9 @@ The data has been provided from following link:<br>
 This repository contains the following contents:
 * docs folder contains presentation file
 * notebooks folder including three different jupyter notbooks file as three different classifiers
- * CNN 
- * DNN 
- * Random Forest
+  * CNN 
+  * DNN 
+  * Random Forest
 
 # Requirements: 
 * pandas
